@@ -1,9 +1,12 @@
 # backend-1era-preentrega
 
 Se utilizaron las depedencias de:
-#- nodemon ($ npm i nodemon).
-#- express ($ npm i express).
-#- uuid, para crear ID's aleatorios ($ npm i uuid).
+
+# nodemon ($ npm i nodemon).
+
+# express ($ npm i express).
+
+# uuid, para crear ID's aleatorios ($ npm i uuid).
 
 
 app.js  inicia  la aplicacion con el comando de nodemon:
