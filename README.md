@@ -11,4 +11,3 @@ Se utilizaron las depedencias de:
 
 app.js  inicia  la aplicacion con el comando de nodemon:
 $ nodemon src/app.js # backend-1era-preentrega
-# primera-preEntrega-Backend
